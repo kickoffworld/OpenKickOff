@@ -1,0 +1,430 @@
+PLAYER MANAGER
+GOA
+DEF
+MIL
+ATT
+Gardien
+Defenseur
+Milieu
+Attaquant
+Sem.
+Gardiens
+Defense
+Milieu
+Attaque
+Tableaux
+Resultats
+Matches
+Buteurs
+PTS
+J
+G
+N
+P
+BP
+BC
+Resultat
+Rapide
+Normal
+Lig
+1
+2
+3
+4
+FORCES:
+Gardiens
+Defense
+Milieu
+Attaque
+Jeu equipe
+Tactique
+Repos
+Entr. Suppl.
+Achats de joueurs
+Salaires
+Nouveaux contrats
+Interets
+Autres charges
+Vente de joueurs
+Recettes de matches
+Recettes de Coupe
+Sponsors
+Autres recettes
+Total
+Budget courant
+Limite de credit
+Total disponible
+Achats de joueurs
+Vente de joueurs
+Possession balle
+Total tirs
+Tirs au but
+Coups de coin
+Fautes subies
+Cartons jaunes
+Cartons rouges
+gardien
+Kit 1
+Kit 2
+Kit 3
+LOAD GAME
+SAVE GAME
+LOAD EQUIPES
+SAVE EQUIPES
+LOAD TACTIQUES
+SAVE TACTIQUES
+SELECT TACTIQUE
+Nom fichier
+Administration
+Le comite est ravi!
+Bon travail, continuez!
+Le comite est content!
+Le comite est joyeux!
+Le comite est satisfait, mais attend mieux...
+Le comite est mecontent...
+On attend du changement...
+Le comite pense que la situation est desagreable...
+On parle beaucoup d'un nouvel entraineur...
+Vous avez toute notre confiance!
+An/Sem
+EQUIPE
+Entraineur-Joueur
+OK
+Annuler
+SUPPRIMER
+Vous utilisez deja cette tactique!
+Une pause est bienvenue!
+Un seul changement tactique par semaine!
+Nous ne pouvons pas dépenser autant!
+Pas plus de 24 joueurs!
+Vous voulez acheter votre propre joueur?
+Seulement 2 achats de joueurs par semaine.
+Quoi? Nous sommes deja elimines!
+L'aventure en coupe est deja finie...
+Dommage de manquer les demi-finales!
+Nous perdons en demi-finale... Bravo!
+Une defaite en finale reste un bon resultat!
+En route pour le tour suivant!
+Bravo, nous passons le second tour!
+Youhou! En quarts de finale!
+Excellent! Plus qu'un tour avant la finale!
+On est en finale, on est en finale!
+La COUPE est a NOUS !!!
+VOUS ETES VIRE !
+Malheureusement nous devons nous expliquer!
+<TEAM> veut vous faire une offre pour <GIOC>
+Hooligans a <TEAM>! <DATA> K d'amende!
+Contrat sponsoring de <DATA>K pour <TEAM>!
+Nous sommes promus en <DATA>! Limite de credit <DATA2> K!
+Nous sommes relegues en <DATA>! Limite de credit <DATA2> K!
+Un peu de patience...
+Les Equipes
+Load
+Save
+OK
+Ligue - Sem <DATA>
+<GIOC>, un junior du club integre l'equipe!
+Equipe
+Ligue
+Coupe
+Club
+Coach
+Transfers
+Tactique
+MATCH
+Options
+Nouv. Saison
+Coupe
+Finales
+1/2 Finale
+1/4 Finale
+PALMARES DU CLUB
+Ann.  Lig Pos  J  V  N  D  BP BC  PT
+Finances
++
+-
+Semaine dern.
+Cette semaine
+Statistiques du manager
+Taux de reussite:
+Abandonner!
+Quitter l'equipe de <TEAM>?
+OUI!
+NON!
+Nous sommes sur un nuage!
+Le moral est au top!
+Aucun probleme a signaler!
+Le moral est tres bon.
+Les joueurs commencent a douter...
+La depression nous guette...
+Le COACH
+Entrainement
+Joueur              Pos   Nouveau
+Retrain:
+Supprimer
+Changer Tactique
+Liste des transfers
+DOWN
+UP
+Joueur           Age Equipe          Lig
+OK
+Hmmm ...
+Non merci!
+Joueurs:
+1e tour
+2e tour
+3e tour
+Quart-finale
+Demi-finales
+Finale
+Finales
+La COUPE
+Quart-finales
+Demi-finales
+Finale
+app
+tab
+VS
+Rapide
+Voir
+Preparation...
+domicile VS <TEAM>
+exterieur VS <TEAM>
+contre <TEAM>
+Position
+Age
+Taille
+Poids
+Vitesse
+Agilite
+Endurance
+Resistance
+Agressivite
+Moral
+Passes
+Shoot
+Tackle
+Conserv.
+Bas
+Mecontent
+OK
+Bon
+Super
+Extra
+Match
+Buts
+Moy.
+Int
+1
+2
+3
+4
+Infos Joueur
+Nom
+cm
+kg
+Forces
+PRIX
+Disponible
+ACHETER
+Palmares
+Pos
+Age
+Contrat
+Valeur
+Forme
+Discipline
+Statut
+Refuser transfer
+Mettre en vente
+Retirer des transfers
+Statut du joueur
+Le joueur a 1 carton jaune
+Le joueur a <DATA> cartons jaunes
+Suspendu pour 1 semaine
+Suspendu pour <DATA> semaines
+Blesse pour <DATA>
+Transfer Market
+En transfer depuis <DATA>
+reclame un transfer
+Reclame un transfer depuis <DATA>
+Proposer nouveau contrat
+annees
+NON!
+Retraite joueur!
+OK pour STOP, ou ici pour annuler!
+Equipe
+But  Joueur             Equipe
+Remake du celebre jeu produit
+par Dino Dini & Steve Screech en 1990
+ce jeu est une reproduction,
+tres fidele du jeu original,
+avec l'ajout de nouvelles options:
+chaque equipe a son propre style,
+terrains varies, ralentis,
+et pleins d'autres ajouts...!
+Pour les mise a jour, suivez nous sur:
+GO!
+VENDRE
+ACHETER
+OFFRE
+PRIX
+Nom
+Pos
+Age
+Habilete
+Disponible
+ACHETER
+Annuler
+Accepte
+l'offre
+Contre
+offre
+SORTIE
+B
+S
+R
+T
+C
+Joueur              Age Pos  No statut
+Nom tactique:
+Joueur              Pos  No
+EQUIPE INCOMPLETE!
+CONTINUER QUAND MEME?
+OUI
+NON
+Feuille de Match
+une semaine
+semaines
+1 mois
+plus d'un mois
+plus de <DATA> mois
+fautes subies
+Tirs au but
+Total tirs
+possession
+est suspendu
+est blessé
+<GIOC> a purge sa suspension
+<GIOC> est retabli de sa blessure
+<GIOC> reclame un transfer pour faire avancer sa carriere.
+Semaine
+Annee
+P
+S
+A
+E
+Chang.
+TIRS AU BUT
+T
+PR
+son ON
+son OFF
+Changement
+Tactique
+mesh
+changement
+Tactique changee
+OK
+touche
+5 metres
+Corner
+GOAL
+Palmares du Club
+Finances
+Evaluation du comite
+OK
+Le CLUB
+OPTIONS
+Voir les resultats des autres matches
+Sauvegarder dans memoire interne
+Sauvegarder dans media externe
+MATCH Plein-ecran Automatique
+Sauvegarder
+ceci est la version demo! Pour sauvegarder votre carriere et voir les ralentis, chargez la version Android ou Windows:
+continuer
+quitter
+Italiens
+Anglais
+Choix des noms
+New Game
+Load Game
+Demo Game
+Annee
+Equipe
+Entr./Joueur
+Age
+Position
+JEU EN POSTE
+JEU EN EQUIPE
+Version pour Android
+L'application donne acces a un support
+pour sauvegarder les donnes de jeu.
+Au debut du jeu se cree un
+dossier nomme
+dans lequel toutes les donnees sont sauvegardees.
+Cliquez CONTINUER pour choisir
+le type de media voulu.
+CONTINUER
+Memoire interne
+Support externe
+Choisir le support sur
+sauvegarder donnees de jeu
+Version FLASH 
+La version flash a plusieurs limitations:
+Pas de sauvegarde des donnees de jeu
+et pas de modification des maillots.
+Dans la version complete vous pouvez
+sauvegarder vos carrieres, tactiques et maillots.
+Pour profiter de toutes les options
+telechargez les versions ANDROID & WINDOWS.
+CONTINUE
+Ceci est une version beta, si vous trouvez des erreurs dans la traduction francaise contactez nous sur:
+Chacun est bienvenu pour nous aider sur ce projet, toute suggestion ou rapport de bug peut nous etre soumis sur nos comptes de reseaux sociaux!!
+Jeu Demo Arcade
+Buteur:
+R
+PENALTY!
+Faute <GIOC>
+Carton JAUNE <GIOC>
+EXPULSION <GIOC>
+Blessure <GIOC>
+LOAD RALENTI
+SAVE RALENTI
+Voir les Ralentis
+Coup franc - distance:
+HTML5 Version
+The HTML5 version has many limitations.
+Out:
+In:
+Hommage au celebre jeu cree par Dino Dini en 1990. Ce jeu reproduit le graphisme, les sons et la jouabilite du Commodore Amiga. Aucun des developpeurs du jeu original n'est implique dans ce projet. Pour suivre les projets de jeux de Dino Dini rendez vous sur: www.twitter.com/dndn1011
+Ce remake comprend de nouvelles fonctionnalites et options par rapports aux versions originales des 90's de Kick Off 2 & Player Manager. Pour les mise a jour, suivez nous sur:
+1er
+2e
+3e
+4e
+5e
+6e
+7e
+8e
+9e
+10e
+11e
+12e
+13e
+14e
+15e
+16e
+17e
+18e
+19e
+20e
+21e
+22e
+---
+Controle de balle
+Facile
+Normal
+Difficile
+
+<fine testi di gioco>
